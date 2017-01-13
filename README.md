@@ -1,2 +1,2 @@
-# FirstGit
-My first hands on with GIT repo
+# FirstGitCommit
+My first commit on GIT branch
